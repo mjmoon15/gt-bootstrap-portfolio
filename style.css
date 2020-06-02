@@ -1,7 +1,8 @@
+body {
+    background-image: url(/assets/gtpfbg.png)
+  }
+
+
 #aboutMe {
     font: rgb(18, 185, 157);
-}
-/* Solid border below About Me */
-#dividerLine hr.solid {
-    border-top: 3px solid black;
 }
