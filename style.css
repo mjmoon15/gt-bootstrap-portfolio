@@ -5,4 +5,10 @@ body {
 
 #aboutMe {
     font: rgb(18, 185, 157);
+    background-color: whitesmoke;
+}
+
+.container { 
+  width: 60%;
+  padding: 10px
 }
