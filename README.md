@@ -10,19 +10,18 @@
 This portfolio website is built using Bootstrap and best practices for a responsive user interface across multiple device formats.
 
 
-<!-- ## Table of Contents (Optional)
+## Table of Contents
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license) -->
+* [License](#license)
 
 
 ## Installation
 
 Clone the repo from GitHub and run index.html in your browser.
+
+[The homepage can also be directly accessed here.](https://mjmoon15.github.io/gt-bootstrap-portfolio/)
 
 
 ## Usage 
