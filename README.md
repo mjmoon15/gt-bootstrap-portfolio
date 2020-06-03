@@ -24,6 +24,7 @@ Clone the repo from GitHub and run index.html in your browser.
 [The homepage can also be directly accessed here.](https://mjmoon15.github.io/gt-bootstrap-portfolio/)
 
 
+
 ## Usage 
 
 These html files use Bootstrap for a responsive user experience. 
