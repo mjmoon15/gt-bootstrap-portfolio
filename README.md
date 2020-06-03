@@ -21,7 +21,9 @@ This portfolio website is built using Bootstrap and best practices for a respons
 
 Clone the repo from GitHub and run index.html in your browser.
 
-[The homepage can also be directly accessed here.](https://mjmoon15.github.io/gt-bootstrap-portfolio/)
+[The homepage can be directly accessed here.](https://mjmoon15.github.io/gt-bootstrap-portfolio/)
+
+[The GitHub Repo can be accessed here.](https://github.com/mjmoon15/gt-bootstrap-portfolio)
 
 
 
@@ -29,7 +31,12 @@ Clone the repo from GitHub and run index.html in your browser.
 
 These html files use Bootstrap for a responsive user experience. 
 
-<!-- Add screenshots here -->
+Inline-style: 
+![About Me screenshot](Assets/gt-portfolio-about.jpg) "Logo Title Text 1")
+![Portfolio screenshot](Assets/gt-portfolio-portfolio.jpg) "Logo Title Text 1")
+![Contact screenshot](Assets/gt-portfolio-contact.jpg) "Logo Title Text 1")
+
+
 
 
 ## Credits
