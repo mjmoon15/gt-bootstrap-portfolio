@@ -1,5 +1,5 @@
 body {
-    background-image: url(./assets/gtpfbg.jpg)
+    background-image: url(./Assets/gtpfbg.jpg)
   }
 
 
@@ -28,4 +28,11 @@ h1 {
 .float-left {
   padding-right: 15px;
   padding-left: 15px
+}
+
+footer {
+  border-top: darkturquoise;
+  text-align: center;
+  padding: 3px;
+  background-color: darkslategrey;
 }
