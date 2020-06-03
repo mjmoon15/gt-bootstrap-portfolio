@@ -29,3 +29,10 @@ h1 {
   padding-right: 15px;
   padding-left: 15px
 }
+
+footer {
+  border-top: darkturquoise;
+  text-align: center;
+  padding: 3px;
+  background-color: darkslategrey;
+}
