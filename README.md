@@ -32,9 +32,9 @@ Clone the repo from GitHub and run index.html in your browser.
 These html files use Bootstrap for a responsive user experience. 
 
 Inline-style: 
-![About Me screenshot](Assets/gt-portfolio-about.jpg) "Logo Title Text 1")
-![Portfolio screenshot](Assets/gt-portfolio-portfolio.jpg) "Logo Title Text 1")
-![Contact screenshot](Assets/gt-portfolio-contact.jpg) "Logo Title Text 1")
+![About Me screenshot](Assets/gt-portfolio-about.jpg) "About Me")
+![Portfolio screenshot](Assets/gt-portfolio-portfolio.jpg) "Portfolio")
+![Contact screenshot](Assets/gt-portfolio-contact.jpg) "Contact")
 
 
 
