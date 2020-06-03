@@ -4,12 +4,28 @@ body {
 
 
 #aboutMe {
-    font: rgb(18, 185, 157);
+    color: black;
     background-color: whitesmoke;
+    
 }
 
 .container { 
   width: 60%;
   padding: 10px;
   background-color: whitesmoke
+}
+
+.img-fluid {
+  width: 75%;
+  float: left;
+  height: auto;
+}
+
+h1 {
+  color : rgb(18, 185, 157)
+}
+
+.float-left {
+  padding-right: 15px;
+  padding-left: 15px
 }
