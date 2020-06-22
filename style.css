@@ -23,6 +23,11 @@ hr{
   background-color: whitesmoke;
 }
 
+#navbar {
+background-color: darkslategrey !important;
+color: whitesmoke;
+}
+
 .container { 
   position: relative;
   min-height: 100vh;
