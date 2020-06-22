@@ -1,12 +1,26 @@
 body {
     background-image: url(./Assets/gtpfbg.jpg)
   }
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    border-top: darkturquoise;
+    text-align: center;
+    padding: 3px;
+    background-color: darkslategrey;
+  }
 
+h1 {
+  color: whitesmoke;
+  }
 
-#aboutMe {
-    color: black;
-    background-color: whitesmoke;
-    
+a {
+  color: whitesmoke;
+}
+
+hr{
+  background-color: whitesmoke;
 }
 
 .container { 
@@ -14,7 +28,9 @@ body {
   min-height: 100vh;
   width: 60%;
   padding: 10px;
-  background-color: whitesmoke
+  font-size: 20px;
+  background-color: darkslategrey;
+  color: whitesmoke;
 }
 
 .img-fluid {
@@ -23,21 +39,23 @@ body {
   height: auto;
 }
 
-h1 {
-  color :rgb(5, 34, 87)
-}
 
 .float-left {
   padding-right: 15px;
   padding-left: 15px
 }
 
-footer {
-  position: relative;
-  width: 100%;
-  bottom: 0;
-  border-top: darkturquoise;
-  text-align: center;
-  padding: 3px;
+.card {
+  font-size: 20px;
   background-color: darkslategrey;
+  color: whitesmoke;
 }
+
+
+#aboutMe {
+  font-size: 20px;
+  background-color: darkslategrey;
+  color: whitesmoke;
+  
+}
+
